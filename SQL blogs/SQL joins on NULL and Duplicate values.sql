@@ -7,10 +7,6 @@ INSERT INTO table1 (id1) VALUES (1), (1), (1), (2), (NULL), (3),(3);
 
 SELECT * FROM table1;
 
-CREATE TABLE tab2 (
-  id2 INT
-);
-
 -- Create table2
 CREATE TABLE table2 (
   id2 INT
